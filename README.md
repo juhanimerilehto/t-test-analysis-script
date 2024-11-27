@@ -68,11 +68,10 @@ python t-test.py --excel_path "your_data.xlsx" --group_column "Group" --value_co
 ## File Structure
 
 ```plaintext
-statistical-analysis-suite/
-├── ttest/
+├── t-test-analysis-script/
 │   ├── assets/
 │   │   └── likes_str_logo.png
-│   ├── ttest_analysis.py
+│   ├── t-test.py
 │   ├── requirements.txt
 │   └── README.md
 ```
