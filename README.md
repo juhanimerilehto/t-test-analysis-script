@@ -1,4 +1,4 @@
-# Statistical Analysis Suite - T-Test Module
+# T-test Analysis script
 
 **Version 1.0**
 ### Creator: Juhani Merilehto - @juhanimerilehto - Jyväskylä University of Applied Sciences (JAMK), Likes institute
